@@ -9,4 +9,4 @@ The reason for choosing the above models is because of their high speed in compa
 
 I compared the performance of the above models on the basis of their capibilities i.e., I loaded a sample image and trained both of my models on it while keeping the confidence level value for each of them equal and then I watched which model was detecting more objects, now what I found is that SSDMobileNet was detecting fewer objects in comparison to YOLO for the same confidence level on my sample image. hence I decided to go with YOLO as my final object detection model.
 
-So in this project I have implemented YOLO to detect furniture objects and then tuned its confidence level to increase the accuracy.
+So in this project I have implemented YOLO to detect furniture objects and then tuned its confidence level to increase its accuracy.
